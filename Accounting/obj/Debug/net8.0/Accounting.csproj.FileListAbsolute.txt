@@ -1,0 +1,14 @@
+D:\data\programming\projects\analysis-pattern\Accounting\obj\Debug\net8.0\Accounting.GeneratedMSBuildEditorConfig.editorconfig
+D:\data\programming\projects\analysis-pattern\Accounting\obj\Debug\net8.0\Accounting.AssemblyInfoInputs.cache
+D:\data\programming\projects\analysis-pattern\Accounting\obj\Debug\net8.0\Accounting.AssemblyInfo.cs
+D:\data\programming\projects\analysis-pattern\Accounting\obj\Debug\net8.0\Accounting.csproj.CoreCompileInputs.cache
+D:\data\programming\projects\analysis-pattern\Accounting\bin\Debug\net8.0\Accounting.exe
+D:\data\programming\projects\analysis-pattern\Accounting\bin\Debug\net8.0\Accounting.deps.json
+D:\data\programming\projects\analysis-pattern\Accounting\bin\Debug\net8.0\Accounting.runtimeconfig.json
+D:\data\programming\projects\analysis-pattern\Accounting\bin\Debug\net8.0\Accounting.dll
+D:\data\programming\projects\analysis-pattern\Accounting\bin\Debug\net8.0\Accounting.pdb
+D:\data\programming\projects\analysis-pattern\Accounting\obj\Debug\net8.0\Accounting.dll
+D:\data\programming\projects\analysis-pattern\Accounting\obj\Debug\net8.0\refint\Accounting.dll
+D:\data\programming\projects\analysis-pattern\Accounting\obj\Debug\net8.0\Accounting.pdb
+D:\data\programming\projects\analysis-pattern\Accounting\obj\Debug\net8.0\Accounting.genruntimeconfig.cache
+D:\data\programming\projects\analysis-pattern\Accounting\obj\Debug\net8.0\ref\Accounting.dll
