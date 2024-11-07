@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\data\\programming\\projects\\analysis-pattern\\Accounting\\Accounting.csproj": {}
+    "D:\\code\\personal\\analysis-pattern\\Accounting\\Accounting.csproj": {}
   },
   "projects": {
-    "D:\\data\\programming\\projects\\analysis-pattern\\Accounting\\Accounting.csproj": {
+    "D:\\code\\personal\\analysis-pattern\\Accounting\\Accounting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\data\\programming\\projects\\analysis-pattern\\Accounting\\Accounting.csproj",
+        "projectUniqueName": "D:\\code\\personal\\analysis-pattern\\Accounting\\Accounting.csproj",
         "projectName": "Accounting",
-        "projectPath": "D:\\data\\programming\\projects\\analysis-pattern\\Accounting\\Accounting.csproj",
-        "packagesPath": "C:\\Users\\burny\\.nuget\\packages\\",
-        "outputPath": "D:\\data\\programming\\projects\\analysis-pattern\\Accounting\\obj\\",
+        "projectPath": "D:\\code\\personal\\analysis-pattern\\Accounting\\Accounting.csproj",
+        "packagesPath": "C:\\Users\\zhihao.xu\\.nuget\\packages\\",
+        "outputPath": "D:\\code\\personal\\analysis-pattern\\Accounting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\burny\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\zhihao.xu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -58,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
