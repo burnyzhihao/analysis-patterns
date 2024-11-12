@@ -1,0 +1,12 @@
+D:\code\personal\analysis-pattern\PhoneService\bin\Debug\net8.0\PhoneService.deps.json
+D:\code\personal\analysis-pattern\PhoneService\bin\Debug\net8.0\PhoneService.dll
+D:\code\personal\analysis-pattern\PhoneService\bin\Debug\net8.0\PhoneService.pdb
+D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\PhoneService.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\PhoneService.AssemblyInfoInputs.cache
+D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\PhoneService.AssemblyInfo.cs
+D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\PhoneService.csproj.CoreCompileInputs.cache
+D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\PhoneService.sourcelink.json
+D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\PhoneService.dll
+D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\refint\PhoneService.dll
+D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\PhoneService.pdb
+D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\ref\PhoneService.dll

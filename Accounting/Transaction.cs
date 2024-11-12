@@ -4,10 +4,10 @@ namespace AP.Accounting;
 public class Transaction
 {
     public List<Entry> SourceEntries{get;} = [];
-    public PostingRule Rule{get;}
+    public PostingRule? Rule{get;}
 
-    public Transaction(Decimal amount, DetailAccount fromAccount, DetailAccount toAccount
-, DateTime charged, PostingRule creator, List<Entry> sources)
+    private Transaction(Decimal amount, DetailAccount fromAccount, DetailAccount toAccount
+                            , DateTime charged, PostingRule? creator, List<Entry> sources)
     {
         //在创建会计事项时同时创建两条分录
         sources.Add(new Entry(amount,charged,toAccount));
@@ -17,12 +17,19 @@ public class Transaction
             throw new Exception("Sum of entries is not zero");
         }
     }
+    //工厂，创建一个会计事项
+    public static Transaction NewWithAmount(Decimal amount, DetailAccount fromAccount, DetailAccount toAccount
+                            , DateTime charged,List<Entry> sources)
+    {
+        return new Transaction(amount,fromAccount,toAccount,charged,null,sources);
+    }
+    //工厂，创建一个无分录会计事项
+    public static Transaction NewWithAmount(Decimal amount, DetailAccount fromAccount, DetailAccount toAccount
+                            , DateTime charged)
+    {
+        return new Transaction(amount,fromAccount,toAccount,charged,null,[]);
+    }
     //检查分录amount之和为零
-    private Boolean CheckInvariant(){
-        return SourceEntries.Sum(entry=>entry.Amount) == 0;
-    } 
+    private Boolean CheckInvariant() => SourceEntries.Sum(entry => entry.Amount) == 0;
 }
 
-public class PostingRule {
-    
- }

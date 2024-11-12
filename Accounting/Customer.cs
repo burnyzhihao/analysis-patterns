@@ -1,0 +1,6 @@
+namespace AP.PhoneService;
+
+public class Customer(String name){
+    public List<PhoneService> PhoneServices=>[];
+    public String Name =>name;
+}

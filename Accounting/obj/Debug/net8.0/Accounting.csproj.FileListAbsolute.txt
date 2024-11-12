@@ -20,10 +20,7 @@ D:\code\personal\analysis-pattern\Accounting\obj\Debug\net8.0\Accounting.sourcel
 D:\code\personal\analysis-pattern\Accounting\obj\Debug\net8.0\Accounting.dll
 D:\code\personal\analysis-pattern\Accounting\obj\Debug\net8.0\refint\Accounting.dll
 D:\code\personal\analysis-pattern\Accounting\obj\Debug\net8.0\Accounting.pdb
-D:\code\personal\analysis-pattern\Accounting\bin\Debug\net8.0\Accounting.exe
 D:\code\personal\analysis-pattern\Accounting\bin\Debug\net8.0\Accounting.deps.json
-D:\code\personal\analysis-pattern\Accounting\bin\Debug\net8.0\Accounting.runtimeconfig.json
 D:\code\personal\analysis-pattern\Accounting\bin\Debug\net8.0\Accounting.dll
 D:\code\personal\analysis-pattern\Accounting\bin\Debug\net8.0\Accounting.pdb
-D:\code\personal\analysis-pattern\Accounting\obj\Debug\net8.0\Accounting.genruntimeconfig.cache
 D:\code\personal\analysis-pattern\Accounting\obj\Debug\net8.0\ref\Accounting.dll

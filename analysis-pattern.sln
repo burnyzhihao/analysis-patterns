@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Accounting", "Accounting\Accounting.csproj", "{8DC64F25-C5B7-4B71-9DBC-FD48158F6C62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneService", "PhoneService\PhoneService.csproj", "{B49BDC2C-3B8D-46A8-A5F9-6FE1AD3F95A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8DC64F25-C5B7-4B71-9DBC-FD48158F6C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DC64F25-C5B7-4B71-9DBC-FD48158F6C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DC64F25-C5B7-4B71-9DBC-FD48158F6C62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49BDC2C-3B8D-46A8-A5F9-6FE1AD3F95A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49BDC2C-3B8D-46A8-A5F9-6FE1AD3F95A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49BDC2C-3B8D-46A8-A5F9-6FE1AD3F95A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49BDC2C-3B8D-46A8-A5F9-6FE1AD3F95A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
