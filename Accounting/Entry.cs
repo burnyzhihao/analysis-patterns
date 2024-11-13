@@ -1,6 +1,6 @@
 using System.Data;
 
-namespace AP.Accounting;
+namespace Accounting;
 
 public class Entry
 {

@@ -1,4 +1,4 @@
-namespace AP.Accounting;
+namespace Accounting;
 
 //会计事项
 public class Transaction
@@ -19,9 +19,9 @@ public class Transaction
     }
     //工厂，创建一个会计事项
     public static Transaction NewWithAmount(Decimal amount, DetailAccount fromAccount, DetailAccount toAccount
-                            , DateTime charged,List<Entry> sources)
+                            ,PostingRule creator, DateTime charged,List<Entry> sources)
     {
-        return new Transaction(amount,fromAccount,toAccount,charged,null,sources);
+        return new Transaction(amount,fromAccount,toAccount,charged,creator,sources);
     }
     //工厂，创建一个无分录会计事项
     public static Transaction NewWithAmount(Decimal amount, DetailAccount fromAccount, DetailAccount toAccount

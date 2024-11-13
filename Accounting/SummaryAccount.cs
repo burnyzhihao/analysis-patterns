@@ -1,4 +1,4 @@
-namespace AP.Accounting;
+namespace Accounting;
 
 public class SummaryAccount : IAccount
 {

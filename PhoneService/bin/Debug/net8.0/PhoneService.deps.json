@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "PhoneService/1.0.0": {
+        "dependencies": {
+          "Accounting": "1.0.0"
+        },
         "runtime": {
           "PhoneService.dll": {}
+        }
+      },
+      "Accounting/1.0.0": {
+        "runtime": {
+          "Accounting.dll": {}
         }
       }
     }
   },
   "libraries": {
     "PhoneService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Accounting/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

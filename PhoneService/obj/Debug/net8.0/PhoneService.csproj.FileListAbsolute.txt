@@ -10,3 +10,7 @@ D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\PhoneService.dll
 D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\refint\PhoneService.dll
 D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\PhoneService.pdb
 D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\ref\PhoneService.dll
+D:\code\personal\analysis-pattern\PhoneService\bin\Debug\net8.0\Accounting.dll
+D:\code\personal\analysis-pattern\PhoneService\bin\Debug\net8.0\Accounting.pdb
+D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\PhoneService.csproj.AssemblyReference.cache
+D:\code\personal\analysis-pattern\PhoneService\obj\Debug\net8.0\PhoneService.csproj.CopyComplete

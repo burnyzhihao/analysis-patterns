@@ -1,7 +1,7 @@
 using System.Runtime.CompilerServices;
-using AP.Accounting;
+using Accounting;
 
-namespace AP.PhoneService;
+namespace PhoneService;
 public class UseCases{
     public static void Main(String[] args){
         Console.WriteLine("hello");

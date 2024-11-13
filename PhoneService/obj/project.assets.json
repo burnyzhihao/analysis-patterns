@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "Accounting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Accounting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Accounting.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Accounting/1.0.0": {
+      "type": "project",
+      "path": "../Accounting/Accounting.csproj",
+      "msbuildProject": "../Accounting/Accounting.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "Accounting >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\zhihao.xu\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\code\\personal\\analysis-pattern\\Accounting\\Accounting.csproj": {
+              "projectPath": "D:\\code\\personal\\analysis-pattern\\Accounting\\Accounting.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

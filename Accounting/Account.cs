@@ -1,5 +1,5 @@
 
-namespace AP.Accounting;
+namespace Accounting;
 
 public interface IAccount
 {

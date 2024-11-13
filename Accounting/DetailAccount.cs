@@ -1,6 +1,6 @@
 using System.Reflection.Metadata;
 
-namespace AP.Accounting;
+namespace Accounting;
 
 public class DetailAccount : IAccount
 { 

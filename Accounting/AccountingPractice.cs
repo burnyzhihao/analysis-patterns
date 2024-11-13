@@ -1,4 +1,4 @@
-namespace AP.Accounting;
+namespace Accounting;
 //会计务实
 public class AccountingPractice{
     //模拟一个预定义的会计务实

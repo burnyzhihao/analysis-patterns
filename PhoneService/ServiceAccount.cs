@@ -1,7 +1,7 @@
-namespace AP.PhoneService;
+namespace PhoneService;
 
 using System.Reflection.Emit;
-using AP.Accounting;
+using Accounting;
 //服务账户
 public class ServiceAccount : DetailAccount{
     private ServiceAccount(String name,PhoneService phoneService,SummaryAccount account) : base(name){
